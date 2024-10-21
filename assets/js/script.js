@@ -72,7 +72,7 @@ const musicData = [
   },
   {
     backgroundImage: "./assets/images/poster-8.jpg",
-    posterUrl: "./assets/images/poster-8.jpg",
+    posterUrl: "./assets/images/poster-8.jpeg",
     title: "Kalki Theme Song",
     album: "Kalki 2898 AD",
     year: 2024,
