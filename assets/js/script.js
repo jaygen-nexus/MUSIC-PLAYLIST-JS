@@ -70,6 +70,15 @@ const musicData = [
     artist: "Eminem x Snoop Dogg",
     musicPath: "./assets/music/music-7.mp3",
   },
+  {
+    backgroundImage: "./assets/images/poster-8.jpg",
+    posterUrl: "./assets/images/poster-8.jpg",
+    title: "Kalki Theme Song",
+    album: "Kalki 2898 AD",
+    year: 2024,
+    artist: "Bhairava",
+    musicPath: "./assets/music/music-8.mp3",
+  },
 ];
 
 
