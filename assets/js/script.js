@@ -71,13 +71,22 @@ const musicData = [
     musicPath: "./assets/music/music-7.mp3",
   },
   {
-    backgroundImage: "./assets/images/poster-8.jpg",
+    backgroundImage: "./assets/images/poster-8.jpeg",
     posterUrl: "./assets/images/poster-8.jpeg",
     title: "Kalki Theme Song",
     album: "Kalki 2898 AD",
     year: 2024,
     artist: "Bhairava",
     musicPath: "./assets/music/music-8.mp3",
+  },
+  {
+    backgroundImage: "./assets/images/poster-9.jpeg",
+    posterUrl: "./assets/images/poster-9.jpeg",
+    title: "La Martiza",
+    album: "La Maritza",
+    year: 1990,
+    artist: "Sylvie Vartan",
+    musicPath: "./assets/music/music-9.mp3",
   },
 ];
 
