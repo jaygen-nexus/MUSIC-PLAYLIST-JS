@@ -62,12 +62,12 @@ const musicData = [
     musicPath: "./assets/music/music-6.mp3",
   },
   {
-    backgroundImage: "./assets/images/poster-7.jpg",
-    posterUrl: "./assets/images/poster-7.jpg",
-    title: "From The D 2 The LBC",
-    album: "Curtain Call 2",
+    backgroundImage: "./assets/images/poster-7.jpeg",
+    posterUrl: "./assets/images/poster-7.jpeg",
+    title: "Golden Hour",
+    album: "This is what ____ feels like.",
     year: 2022,
-    artist: "Eminem x Snoop Dogg",
+    artist: "JVKE",
     musicPath: "./assets/music/music-7.mp3",
   },
   {
@@ -87,6 +87,15 @@ const musicData = [
     year: 1990,
     artist: "Sylvie Vartan",
     musicPath: "./assets/music/music-9.mp3",
+  },
+  {
+    backgroundImage: "./assets/images/poster-10.jpeg",
+    posterUrl: "./assets/images/poster-10.jpeg",
+    title: "Next To You",
+    album: "Next To You",
+    year: 2024,
+    artist: "JVKE",
+    musicPath: "./assets/music/music-10.m4a",
   },
 ];
 
