@@ -97,6 +97,15 @@ const musicData = [
     artist: "JVKE",
     musicPath: "./assets/music/music-10.m4a",
   },
+  {
+    backgroundImage: "./assets/images/poster-10.jpg",
+    posterUrl: "./assets/images/poster-10.jpg",
+    title: "Wannabe",
+    album: "Wannabe",
+    year: 1996,
+    artist: "Spice Girls",
+    musicPath: "./assets/music/music-10.mp3",
+  },
 ];
 
 
