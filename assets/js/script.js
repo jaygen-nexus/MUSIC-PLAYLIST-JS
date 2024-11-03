@@ -98,8 +98,8 @@ const musicData = [
     musicPath: "./assets/music/music-10.m4a",
   },
   {
-    backgroundImage: "./assets/images/poster-11.jpg",
-    posterUrl: "./assets/images/poster-11.jpg",
+    backgroundImage: "./assets/images/poster-11.jpeg",
+    posterUrl: "./assets/images/poster-11.jpeg",
     title: "Wannabe",
     album: "Wannabe",
     year: 1996,
