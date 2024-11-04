@@ -106,6 +106,33 @@ const musicData = [
     artist: "Spice Girls",
     musicPath: "./assets/music/music-10.mp3",
   },
+  {
+    backgroundImage: "./assets/images/poster-12.jpeg",
+    posterUrl: "./assets/images/poster-12.jpeg",
+    title: "AASA KOODA",
+    album: "AASA KOODA",
+    year: 2024,
+    artist: "SAI ABHYANKKAR & SAI SMRITI",
+    musicPath: "./assets/music/music-12.mp3",
+  },
+  {
+    backgroundImage: "./assets/images/poster-13.jpeg",
+    posterUrl: "./assets/images/poster-13.jpeg",
+    title: "DHEERA DHEERA",
+    album: "KGF",
+    year: 2021,
+    artist: "RAVI BASRUR",
+    musicPath: "./assets/music/music-13.mp3",
+  },
+  {
+    backgroundImage: "./assets/images/poster-14.jpeg",
+    posterUrl: "./assets/images/poster-14.jpeg",
+    title: "SULTHANA",
+    album: "KGF",
+    year: 2021,
+    artist: "RAVI BASRUR",
+    musicPath: "./assets/music/music-14.mp3",
+  },
 ];
 
 
