@@ -133,6 +133,42 @@ const musicData = [
     artist: "RAVI BASRUR",
     musicPath: "./assets/music/music-14.mp3",
   },
+  {
+    backgroundImage: "./assets/images/poster-15.jpeg",
+    posterUrl: "./assets/images/poster-15.jpeg",
+    title: "HAVANA REMIX",
+    album: "HAVANA",
+    year: 2018,
+    artist: "Camilla Cabello",
+    musicPath: "./assets/music/music-15.mp3",
+  },
+  {
+    backgroundImage: "./assets/images/poster-16.jpeg",
+    posterUrl: "./assets/images/poster-16.jpeg",
+    title: "DREAMS",
+    album: "DREAMS",
+    year: 2024,
+    artist: "Karol G, Maluma, etc.",
+    musicPath: "./assets/music/music-16.mp3",
+  },
+  {
+    backgroundImage: "./assets/images/poster-17.jpeg",
+    posterUrl: "./assets/images/poster-17.jpeg",
+    title: "RAGHUNANDANA",
+    album: "HANU MAN",
+    year: 2024,
+    artist: "N/A",
+    musicPath: "./assets/music/music-17.mp3",
+  },
+  {
+    backgroundImage: "./assets/images/poster-18.jpeg",
+    posterUrl: "./assets/images/poster-18.jpeg",
+    title: "MIX OF ALL",
+    album: "N/A",
+    year: 2018,
+    artist: "N/A",
+    musicPath: "./assets/music/music-18.mp3",
+  }, 
 ];
 
 
